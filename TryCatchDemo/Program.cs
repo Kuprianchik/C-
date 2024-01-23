@@ -15,6 +15,7 @@ namespace TryCatchDemo
             MessageBox.Show("Выполняется программа!", "Начало");
             try
             {
+//коммент
                 Double.Parse(Interaction.InputBox("Введите действительное число:", "Число"));
                 MessageBox.Show("Да, это было число!", "Число");
             }
