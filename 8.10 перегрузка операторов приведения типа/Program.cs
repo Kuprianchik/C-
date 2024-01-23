@@ -15,7 +15,7 @@ namespace _8._10_перегрузка_операторов_приведения_
             MyClass A = new MyClass(100, 'A', "Alpha");
             //неявно вызывается метод toString()
             Console.WriteLine("Объект A. "+A);
-            //создание обьекта преобразованием из типа int
+            //создание объекта преобразованием из типа int
             MyClass B = 200;
             Console.WriteLine("Объект B. "+B);
             //Создание объекта преобразованием из типа char
@@ -35,8 +35,13 @@ namespace _8._10_перегрузка_операторов_приведения_
             int n;
             //неявное преобразование к типу int:
             n = A + B;
-
-
+            Console.WriteLine("Значение A+B="+n);
+            //неявное преобразование к типу char:
+            char s = B;
+            Console.WriteLine("Символ:"+s);
+            //последовательное преобразование из текстового
+            //типа к типу MyClass, а затем к типу int:
+            Console.WriteLine("Число: "+(int)(MyClass)"Echo");
         }
     }
     class MyClass
@@ -57,7 +62,7 @@ namespace _8._10_перегрузка_операторов_приведения_
             txt += "Числовое поле: " + code + "\n";
             txt += "Символьное поле: " + symb + "\n";
             txt += "Текстовое поле: " + text + "\n";
-            txt += "---------------";
+            txt += "-------------------------";
             //результат метода
             return txt;
         }
@@ -65,6 +70,10 @@ namespace _8._10_перегрузка_операторов_приведения_
         public static explicit operator String(MyClass obj)
         {
             return obj.text;
+        }
+        public static implicit operator char(MyClass obj)
+        {
+            return obj.symb;
         }
         //метод для неявного приведения к типу int:
         public static implicit operator int(MyClass obj)
