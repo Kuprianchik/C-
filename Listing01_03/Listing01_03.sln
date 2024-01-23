@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8.8 перегрузка о
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8.10 перегрузка операторов приведения типа", "..\8.10 перегрузка операторов приведения типа\8.10 перегрузка операторов приведения типа.csproj", "{89EC2246-F362-4F8B-A9BF-36F3AD1782A6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8.11 операции присваивания и перегрузка операторов", "..\8.11 операции присваивания и перегрузка операторов\8.11 операции присваивания и перегрузка операторов.csproj", "{7C36F258-7FDC-4B7E-9CE5-8035E4CC2962}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{89EC2246-F362-4F8B-A9BF-36F3AD1782A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{89EC2246-F362-4F8B-A9BF-36F3AD1782A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{89EC2246-F362-4F8B-A9BF-36F3AD1782A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C36F258-7FDC-4B7E-9CE5-8035E4CC2962}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C36F258-7FDC-4B7E-9CE5-8035E4CC2962}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C36F258-7FDC-4B7E-9CE5-8035E4CC2962}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C36F258-7FDC-4B7E-9CE5-8035E4CC2962}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
