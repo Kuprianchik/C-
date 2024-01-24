@@ -11,7 +11,7 @@ namespace _9._1_Знакомство_со_свойствами
     {
         static void Main(string[] args)
         {
-            //создание обьекта 
+            //создание объекта 
             MyClass obj = new MyClass(1, 9);
             //проверка значения свойства:
             Console.WriteLine("Свойство code: " + obj.code);
