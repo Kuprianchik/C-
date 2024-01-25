@@ -15,6 +15,21 @@ namespace _9._2_использование_свойства
             Console.WriteLine(obj);
             //Проверка значения свойства:
             Console.WriteLine("Свойство number: {0}",obj.number);
+            //проверка значений полей объекта:
+            Console.WriteLine(obj);
+            //присваивание значения свойству:
+            obj.number = 5;
+            //проверка значений полей объекта:
+            Console.WriteLine(obj);
+            //проверка значений свойства:
+            Console.WriteLine("Свойство number: {0}", obj.number);
+            //проверка значений полей объекта:
+            Console.WriteLine(obj);
+            //Присваивание значения свойству:
+            obj.number = 3;
+            Console.WriteLine(obj);
+
+
         }
     }
     class MyClass

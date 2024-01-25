@@ -39,6 +39,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9.1 Знакомство с
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9.2 использование свойства", "..\9.2 использование свойства\9.2 использование свойства.csproj", "{3437584F-6CFE-4FC8-BEF7-948042D5A2A5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9.3 Свойство без set-аксессора", "..\9.3 Свойство без set-аксессора\9.3 Свойство без set-аксессора.csproj", "{D63EF9D5-8762-471C-8E2B-9D1856A1D814}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -117,6 +119,10 @@ Global
 		{3437584F-6CFE-4FC8-BEF7-948042D5A2A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3437584F-6CFE-4FC8-BEF7-948042D5A2A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3437584F-6CFE-4FC8-BEF7-948042D5A2A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D63EF9D5-8762-471C-8E2B-9D1856A1D814}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D63EF9D5-8762-471C-8E2B-9D1856A1D814}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D63EF9D5-8762-471C-8E2B-9D1856A1D814}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D63EF9D5-8762-471C-8E2B-9D1856A1D814}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
