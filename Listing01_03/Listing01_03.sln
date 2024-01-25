@@ -45,6 +45,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9.4 Свойство без
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9.5 Использование различных свойств", "..\9.5 Использование различных свойств\9.5 Использование различных свойств.csproj", "{9E7084C7-B6ED-4782-9BE2-E43F9AFFF03E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9.6 статическое свойство", "..\9.6 статическое свойство\9.6 статическое свойство.csproj", "{A8454C81-7925-4DA1-A005-7866CBC3FF6C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -135,6 +137,10 @@ Global
 		{9E7084C7-B6ED-4782-9BE2-E43F9AFFF03E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9E7084C7-B6ED-4782-9BE2-E43F9AFFF03E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9E7084C7-B6ED-4782-9BE2-E43F9AFFF03E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8454C81-7925-4DA1-A005-7866CBC3FF6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8454C81-7925-4DA1-A005-7866CBC3FF6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8454C81-7925-4DA1-A005-7866CBC3FF6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8454C81-7925-4DA1-A005-7866CBC3FF6C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
