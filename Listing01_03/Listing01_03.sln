@@ -41,6 +41,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9.2 использован�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9.3 Свойство без set-аксессора", "..\9.3 Свойство без set-аксессора\9.3 Свойство без set-аксессора.csproj", "{D63EF9D5-8762-471C-8E2B-9D1856A1D814}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9.4 Свойство без get-аксессора", "..\9.4 Свойство без get-аксессора\9.4 Свойство без get-аксессора.csproj", "{0071838E-D563-4628-B5DC-28097C9267DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9.5 Использование различных свойств", "..\9.5 Использование различных свойств\9.5 Использование различных свойств.csproj", "{9E7084C7-B6ED-4782-9BE2-E43F9AFFF03E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -123,6 +127,14 @@ Global
 		{D63EF9D5-8762-471C-8E2B-9D1856A1D814}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D63EF9D5-8762-471C-8E2B-9D1856A1D814}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D63EF9D5-8762-471C-8E2B-9D1856A1D814}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0071838E-D563-4628-B5DC-28097C9267DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0071838E-D563-4628-B5DC-28097C9267DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0071838E-D563-4628-B5DC-28097C9267DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0071838E-D563-4628-B5DC-28097C9267DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E7084C7-B6ED-4782-9BE2-E43F9AFFF03E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E7084C7-B6ED-4782-9BE2-E43F9AFFF03E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E7084C7-B6ED-4782-9BE2-E43F9AFFF03E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E7084C7-B6ED-4782-9BE2-E43F9AFFF03E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
