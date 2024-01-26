@@ -47,6 +47,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9.5 Использован�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9.6 статическое свойство", "..\9.6 статическое свойство\9.6 статическое свойство.csproj", "{A8454C81-7925-4DA1-A005-7866CBC3FF6C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9.7 знакомство с индексаторами", "..\9.7 знакомство с индексаторами\9.7 знакомство с индексаторами.csproj", "{0D0FD470-3EB7-410C-B3FD-9B48BB9D0A5B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9.8 использование индексаторов", "..\9.8 использование индексаторов\9.8 использование индексаторов.csproj", "{2F73D925-03E6-4010-8443-387E28FAA2A3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9.9 индексатор без set-аксессора", "..\9.9 индексатор без set-аксессора\9.9 индексатор без set-аксессора.csproj", "{F2E5135D-FB69-4D55-9783-41C31D256C1D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -141,6 +147,18 @@ Global
 		{A8454C81-7925-4DA1-A005-7866CBC3FF6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A8454C81-7925-4DA1-A005-7866CBC3FF6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A8454C81-7925-4DA1-A005-7866CBC3FF6C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D0FD470-3EB7-410C-B3FD-9B48BB9D0A5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D0FD470-3EB7-410C-B3FD-9B48BB9D0A5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D0FD470-3EB7-410C-B3FD-9B48BB9D0A5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D0FD470-3EB7-410C-B3FD-9B48BB9D0A5B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F73D925-03E6-4010-8443-387E28FAA2A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F73D925-03E6-4010-8443-387E28FAA2A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F73D925-03E6-4010-8443-387E28FAA2A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F73D925-03E6-4010-8443-387E28FAA2A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2E5135D-FB69-4D55-9783-41C31D256C1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2E5135D-FB69-4D55-9783-41C31D256C1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2E5135D-FB69-4D55-9783-41C31D256C1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2E5135D-FB69-4D55-9783-41C31D256C1D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
