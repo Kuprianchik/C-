@@ -53,6 +53,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9.8 использован�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9.9 индексатор без set-аксессора", "..\9.9 индексатор без set-аксессора\9.9 индексатор без set-аксессора.csproj", "{F2E5135D-FB69-4D55-9783-41C31D256C1D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9.10 индексатор без get-аксессора", "..\9.10 индексатор без get-аксессора\9.10 индексатор без get-аксессора.csproj", "{51667771-FC70-4779-8654-CCA184B7EBEB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -159,6 +161,10 @@ Global
 		{F2E5135D-FB69-4D55-9783-41C31D256C1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F2E5135D-FB69-4D55-9783-41C31D256C1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F2E5135D-FB69-4D55-9783-41C31D256C1D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51667771-FC70-4779-8654-CCA184B7EBEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51667771-FC70-4779-8654-CCA184B7EBEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51667771-FC70-4779-8654-CCA184B7EBEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51667771-FC70-4779-8654-CCA184B7EBEB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
