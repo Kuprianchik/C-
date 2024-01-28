@@ -18,7 +18,7 @@ namespace _9._10_индексатор_без_get_аксессора
             //проверка
             Console.WriteLine(txt);
             //попытка изменить символ в тексте:
-            txt[4] = 'Ъ';
+            txt[5] = 'Ъ';
             //проверка
             Console.WriteLine(txt);
             txt[0] = 'С';

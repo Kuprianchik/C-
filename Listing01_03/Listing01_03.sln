@@ -55,6 +55,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9.9 индексатор б
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9.10 индексатор без get-аксессора", "..\9.10 индексатор без get-аксессора\9.10 индексатор без get-аксессора.csproj", "{51667771-FC70-4779-8654-CCA184B7EBEB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9.11 идексатор с нечисловым индексом", "..\9.11 идексатор с нечисловым индексом\9.11 идексатор с нечисловым индексом.csproj", "{7A0C46D0-B095-4507-A64C-9D094C3B08A0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9.12 знакомство с двумерными индексаторами", "..\9.12 знакомство с двумерными индексаторами\9.12 знакомство с двумерными индексаторами.csproj", "{2B108271-9556-4F38-B9AE-9DA09A8FD4A9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -165,6 +169,14 @@ Global
 		{51667771-FC70-4779-8654-CCA184B7EBEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{51667771-FC70-4779-8654-CCA184B7EBEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{51667771-FC70-4779-8654-CCA184B7EBEB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A0C46D0-B095-4507-A64C-9D094C3B08A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A0C46D0-B095-4507-A64C-9D094C3B08A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A0C46D0-B095-4507-A64C-9D094C3B08A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A0C46D0-B095-4507-A64C-9D094C3B08A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B108271-9556-4F38-B9AE-9DA09A8FD4A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B108271-9556-4F38-B9AE-9DA09A8FD4A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B108271-9556-4F38-B9AE-9DA09A8FD4A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B108271-9556-4F38-B9AE-9DA09A8FD4A9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
