@@ -59,6 +59,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9.11 идексатор с 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9.12 знакомство с двумерными индексаторами", "..\9.12 знакомство с двумерными индексаторами\9.12 знакомство с двумерными индексаторами.csproj", "{2B108271-9556-4F38-B9AE-9DA09A8FD4A9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9.13 использование двумерного индексатора", "..\9.13 использование двумерного индексатора\9.13 использование двумерного индексатора.csproj", "{D8DCE73E-AC33-43A5-A56A-7A910A997E67}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9.14 многомерные индексаторы", "..\9.14 многомерные индексаторы\9.14 многомерные индексаторы.csproj", "{67649C59-3434-43B0-972D-0C05F1363265}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9.15 перегрузка индексаторов", "..\9.15 перегрузка индексаторов\9.15 перегрузка индексаторов.csproj", "{CF323700-6F65-4E03-BBC0-8BFCDBB72B02}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -177,6 +183,18 @@ Global
 		{2B108271-9556-4F38-B9AE-9DA09A8FD4A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2B108271-9556-4F38-B9AE-9DA09A8FD4A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2B108271-9556-4F38-B9AE-9DA09A8FD4A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8DCE73E-AC33-43A5-A56A-7A910A997E67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8DCE73E-AC33-43A5-A56A-7A910A997E67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8DCE73E-AC33-43A5-A56A-7A910A997E67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8DCE73E-AC33-43A5-A56A-7A910A997E67}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67649C59-3434-43B0-972D-0C05F1363265}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67649C59-3434-43B0-972D-0C05F1363265}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67649C59-3434-43B0-972D-0C05F1363265}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67649C59-3434-43B0-972D-0C05F1363265}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF323700-6F65-4E03-BBC0-8BFCDBB72B02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF323700-6F65-4E03-BBC0-8BFCDBB72B02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF323700-6F65-4E03-BBC0-8BFCDBB72B02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF323700-6F65-4E03-BBC0-8BFCDBB72B02}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
