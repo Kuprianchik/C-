@@ -17,7 +17,7 @@ namespace _9._15_перегрузка_индексаторов
             for (int k = 0; k < n + 3; k++)
             {
                 //объект с целочисленным индексом
-                Console.WriteLine(obj[k] + " ");
+                Console.Write(obj[k] + " ");
             }
             Console.WriteLine("\n");
             //объект с целочисленным индексом:
