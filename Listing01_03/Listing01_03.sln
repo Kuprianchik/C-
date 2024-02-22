@@ -81,6 +81,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10.7 Переопредел
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10.8 переопределение и замещение методов", "..\10.8 переопределение и замещение методов\10.8 переопределение и замещение методов.csproj", "{8E554494-3FF9-4C92-B17E-B1ACE4FD7264}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10.9 перегрузка и переопределение методов", "..\10.9 перегрузка и переопределение методов\10.9 перегрузка и переопределение методов.csproj", "{5F49A1F1-ADFB-411A-802B-542D969A05C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10.10 Наследование индексаторов и свойств", "..\10.10 Наследование индексаторов и свойств\10.10 Наследование индексаторов и свойств.csproj", "{6E54F19E-DA24-40B1-AAE5-9B6D3AE4DD3C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.1.1. Знакомство с абстрактными классами", "..\2.1.1. Знакомство с абстрактными классами\2.1.1. Знакомство с абстрактными классами.csproj", "{0269B6F2-DBEE-4F5D-8537-921B3B33DE8E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -243,6 +249,18 @@ Global
 		{8E554494-3FF9-4C92-B17E-B1ACE4FD7264}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8E554494-3FF9-4C92-B17E-B1ACE4FD7264}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8E554494-3FF9-4C92-B17E-B1ACE4FD7264}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F49A1F1-ADFB-411A-802B-542D969A05C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F49A1F1-ADFB-411A-802B-542D969A05C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F49A1F1-ADFB-411A-802B-542D969A05C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F49A1F1-ADFB-411A-802B-542D969A05C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E54F19E-DA24-40B1-AAE5-9B6D3AE4DD3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E54F19E-DA24-40B1-AAE5-9B6D3AE4DD3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E54F19E-DA24-40B1-AAE5-9B6D3AE4DD3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E54F19E-DA24-40B1-AAE5-9B6D3AE4DD3C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0269B6F2-DBEE-4F5D-8537-921B3B33DE8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0269B6F2-DBEE-4F5D-8537-921B3B33DE8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0269B6F2-DBEE-4F5D-8537-921B3B33DE8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0269B6F2-DBEE-4F5D-8537-921B3B33DE8E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
