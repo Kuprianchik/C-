@@ -87,6 +87,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10.10 Наследован�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.1.1. Знакомство с абстрактными классами", "..\2.1.1. Знакомство с абстрактными классами\2.1.1. Знакомство с абстрактными классами.csproj", "{0269B6F2-DBEE-4F5D-8537-921B3B33DE8E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.1.3 знакомство с интерфейсами", "..\2.1.3 знакомство с интерфейсами\2.1.3 знакомство с интерфейсами.csproj", "{EBBCDF7B-E3BA-4C83-B0CD-18496A3BFFD4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -261,6 +263,10 @@ Global
 		{0269B6F2-DBEE-4F5D-8537-921B3B33DE8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0269B6F2-DBEE-4F5D-8537-921B3B33DE8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0269B6F2-DBEE-4F5D-8537-921B3B33DE8E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EBBCDF7B-E3BA-4C83-B0CD-18496A3BFFD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBBCDF7B-E3BA-4C83-B0CD-18496A3BFFD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBBCDF7B-E3BA-4C83-B0CD-18496A3BFFD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBBCDF7B-E3BA-4C83-B0CD-18496A3BFFD4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
