@@ -91,6 +91,14 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.1.3 знакомство 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.1.4 реализация интерфейсов и наследование базового класса", "..\2.1.4 реализация интерфейсов и наследование базового класса\2.1.4 реализация интерфейсов и наследование базового класса.csproj", "{6BFEC7A9-93E9-44F0-A0E6-DA9A3CC0C750}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.1.5 Наследование интерфейсов", "..\2.1.5 Наследование интерфейсов\2.1.5 Наследование интерфейсов.csproj", "{54DF0C60-7C7A-44CE-97E7-4A0CDFE203E7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.1.6. Интерфейсные переменные", "..\2.1.6. Интерфейсные переменные\2.1.6. Интерфейсные переменные.csproj", "{26D4AFD6-7732-47C8-8BCD-29263EB30AB9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.1.7. интерфейсы и неявная реализация членов", "..\2.1.7. интерфейсы и неявная реализация членов\2.1.7. интерфейсы и неявная реализация членов.csproj", "{173B0D15-F95F-4826-9EDF-1EECBBFD5B62}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.1.8. Интерфейсы и явная реализация членов", "..\2.1.8. Интерфейсы и явная реализация членов\2.1.8. Интерфейсы и явная реализация членов.csproj", "{D1CC6557-48A5-4466-A99E-D048313F119A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -273,6 +281,22 @@ Global
 		{6BFEC7A9-93E9-44F0-A0E6-DA9A3CC0C750}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6BFEC7A9-93E9-44F0-A0E6-DA9A3CC0C750}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6BFEC7A9-93E9-44F0-A0E6-DA9A3CC0C750}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54DF0C60-7C7A-44CE-97E7-4A0CDFE203E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54DF0C60-7C7A-44CE-97E7-4A0CDFE203E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54DF0C60-7C7A-44CE-97E7-4A0CDFE203E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54DF0C60-7C7A-44CE-97E7-4A0CDFE203E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26D4AFD6-7732-47C8-8BCD-29263EB30AB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26D4AFD6-7732-47C8-8BCD-29263EB30AB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26D4AFD6-7732-47C8-8BCD-29263EB30AB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26D4AFD6-7732-47C8-8BCD-29263EB30AB9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{173B0D15-F95F-4826-9EDF-1EECBBFD5B62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{173B0D15-F95F-4826-9EDF-1EECBBFD5B62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{173B0D15-F95F-4826-9EDF-1EECBBFD5B62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{173B0D15-F95F-4826-9EDF-1EECBBFD5B62}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1CC6557-48A5-4466-A99E-D048313F119A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1CC6557-48A5-4466-A99E-D048313F119A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1CC6557-48A5-4466-A99E-D048313F119A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1CC6557-48A5-4466-A99E-D048313F119A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
