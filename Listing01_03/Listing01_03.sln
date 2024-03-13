@@ -105,6 +105,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.1 домашнее зад
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.1 домашнее задание 3", "..\2.1 домашнее задание 3\2.1 домашнее задание 3.csproj", "{C4FADF1C-F6D7-4678-BA7B-95F614DDC8C6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.1 домашнее задание 4", "..\2.1 домашнее задание 4\2.1 домашнее задание 4.csproj", "{329E3E18-81E2-46FB-902A-DD1BCA563022}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.1 домашнее задание 5", "..\2.1 домашнее задание 5\2.1 домашнее задание 5.csproj", "{0919741F-8B41-40C5-8919-F62D6C5B785C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -315,6 +319,14 @@ Global
 		{C4FADF1C-F6D7-4678-BA7B-95F614DDC8C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C4FADF1C-F6D7-4678-BA7B-95F614DDC8C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C4FADF1C-F6D7-4678-BA7B-95F614DDC8C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{329E3E18-81E2-46FB-902A-DD1BCA563022}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{329E3E18-81E2-46FB-902A-DD1BCA563022}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{329E3E18-81E2-46FB-902A-DD1BCA563022}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{329E3E18-81E2-46FB-902A-DD1BCA563022}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0919741F-8B41-40C5-8919-F62D6C5B785C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0919741F-8B41-40C5-8919-F62D6C5B785C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0919741F-8B41-40C5-8919-F62D6C5B785C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0919741F-8B41-40C5-8919-F62D6C5B785C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
