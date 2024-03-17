@@ -26,10 +26,10 @@ namespace _2._1_домашнее_задание_9
         void Show(string txt);
         char this[int n,int g] { get; }
     }
-    class Boss : Base, First
-    {
+    //class Boss : Base, First
+    //{
 
-    }
+    //}
     internal class Program
     {
         static void Main(string[] args)
