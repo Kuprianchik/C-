@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{2FF31374-E479-4E0E-9DA9-15AC37D37A51}</ProjectGuid>
+    <ProjectGuid>{0D182734-CA94-4B9A-BA8F-1128B2B26877}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>_2._2._4_Передача_метода_в_качестве_аргумента</RootNamespace>
-    <AssemblyName>2.2.4 Передача метода в качестве аргумента</AssemblyName>
+    <RootNamespace>_2._1_домашнее_задание_10</RootNamespace>
+    <AssemblyName>2.1 домашнее задание 10</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

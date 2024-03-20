@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // Общие сведения об этой сборке предоставляются следующим набором
 // набора атрибутов. Измените значения этих атрибутов для изменения сведений,
 // связанные с этой сборкой.
-[assembly: AssemblyTitle("2.2.4 Передача метода в качестве аргумента")]
+[assembly: AssemblyTitle("2.2.1 Знакомство с делегатами")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("2.2.4 Передача метода в качестве аргумента")]
+[assembly: AssemblyProduct("2.2.1 Знакомство с делегатами")]
 [assembly: AssemblyCopyright("Copyright ©  2024")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // Следующий GUID представляет идентификатор typelib, если этот проект доступен из модели COM
-[assembly: Guid("2ff31374-e479-4e0e-9da9-15ac37d37a51")]
+[assembly: Guid("d8ee0240-6061-4537-b7e2-ec58e8e026ad")]
 
 // Сведения о версии сборки состоят из указанных ниже четырех значений:
 //
