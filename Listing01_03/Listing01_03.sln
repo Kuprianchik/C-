@@ -123,6 +123,26 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.2.1 Знакомство 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.2.5 Экземпляр делегата как значение выражения1", "..\2.2.5 Экземпляр делегата как значение выражения1\2.2.5 Экземпляр делегата как значение выражения1.csproj", "{5DFDB9C0-F324-43B6-9CEA-C014F4740457}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.2.6 Ссылки на методы и ссылки на объекты", "..\2.2.6 Ссылки на методы и ссылки на объекты\2.2.6 Ссылки на методы и ссылки на объекты.csproj", "{3E9EFE99-B519-4E01-9130-53EB5060485A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.2.7 Знакомство с анонимными методами", "..\2.2.7 Знакомство с анонимными методами\2.2.7 Знакомство с анонимными методами.csproj", "{54D40D46-30D1-4523-BAA2-242CCA0F52F4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.2.8 Анонимный метод как аргумент", "..\2.2.8 Анонимный метод как аргумент\2.2.8 Анонимный метод как аргумент.csproj", "{A5EBBEAB-2356-4688-B3F2-619987DAAF49}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.2.9 Анонимный метод как результат", "..\2.2.9 Анонимный метод как результат\2.2.9 Анонимный метод как результат.csproj", "{087EA185-C86F-4F7C-B9C0-3A1807976FD3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.2.10 Реализация результата с помощью анонимного метода", "..\2.2.10 Реализация результата с помощью анонимного метода\2.2.10 Реализация результата с помощью анонимного метода.csproj", "{F72C5461-69D9-4B70-9B49-448374619313}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.2.11 Знакомство с лямбда-выражениями", "..\2.2.11 Знакомство с лямбда-выражениями\2.2.11 Знакомство с лямбда-выражениями.csproj", "{4F23E04A-D8A9-4D7A-AC63-102021195D2D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.2.12 Лямбда-выражение как аргумент", "..\2.2.12 Лямбда-выражение как аргумент\2.2.12 Лямбда-выражение как аргумент.csproj", "{EC41AF0F-5A33-4CE4-A9DD-753840FF0E06}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.2.13 Лямбда-выражение как результат", "..\2.2.13 Лямбда-выражение как результат\2.2.13 Лямбда-выражение как результат.csproj", "{923D6DDC-3C01-4510-A6C3-E711CA30333C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.2.14 Реализацтя результата с помощью лямбда-выражения", "..\2.2.14 Реализацтя результата с помощью лямбда-выражения\2.2.14 Реализацтя результата с помощью лямбда-выражения.csproj", "{338D18E1-4F8C-4FB6-BDD9-C8B6120A4047}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.2.15 Лямбда-выражения в свойстваих и индексаторах", "..\2.2.15 Лямбда-выражения в свойстваих и индексаторах\2.2.15 Лямбда-выражения в свойстваих и индексаторах.csproj", "{D701C617-72B2-4B67-B910-4A167C4290E0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -369,6 +389,46 @@ Global
 		{5DFDB9C0-F324-43B6-9CEA-C014F4740457}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5DFDB9C0-F324-43B6-9CEA-C014F4740457}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5DFDB9C0-F324-43B6-9CEA-C014F4740457}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E9EFE99-B519-4E01-9130-53EB5060485A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E9EFE99-B519-4E01-9130-53EB5060485A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E9EFE99-B519-4E01-9130-53EB5060485A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E9EFE99-B519-4E01-9130-53EB5060485A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54D40D46-30D1-4523-BAA2-242CCA0F52F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54D40D46-30D1-4523-BAA2-242CCA0F52F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54D40D46-30D1-4523-BAA2-242CCA0F52F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54D40D46-30D1-4523-BAA2-242CCA0F52F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5EBBEAB-2356-4688-B3F2-619987DAAF49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5EBBEAB-2356-4688-B3F2-619987DAAF49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5EBBEAB-2356-4688-B3F2-619987DAAF49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5EBBEAB-2356-4688-B3F2-619987DAAF49}.Release|Any CPU.Build.0 = Release|Any CPU
+		{087EA185-C86F-4F7C-B9C0-3A1807976FD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{087EA185-C86F-4F7C-B9C0-3A1807976FD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{087EA185-C86F-4F7C-B9C0-3A1807976FD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{087EA185-C86F-4F7C-B9C0-3A1807976FD3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F72C5461-69D9-4B70-9B49-448374619313}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F72C5461-69D9-4B70-9B49-448374619313}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F72C5461-69D9-4B70-9B49-448374619313}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F72C5461-69D9-4B70-9B49-448374619313}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F23E04A-D8A9-4D7A-AC63-102021195D2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F23E04A-D8A9-4D7A-AC63-102021195D2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F23E04A-D8A9-4D7A-AC63-102021195D2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F23E04A-D8A9-4D7A-AC63-102021195D2D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC41AF0F-5A33-4CE4-A9DD-753840FF0E06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC41AF0F-5A33-4CE4-A9DD-753840FF0E06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC41AF0F-5A33-4CE4-A9DD-753840FF0E06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC41AF0F-5A33-4CE4-A9DD-753840FF0E06}.Release|Any CPU.Build.0 = Release|Any CPU
+		{923D6DDC-3C01-4510-A6C3-E711CA30333C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{923D6DDC-3C01-4510-A6C3-E711CA30333C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{923D6DDC-3C01-4510-A6C3-E711CA30333C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{923D6DDC-3C01-4510-A6C3-E711CA30333C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{338D18E1-4F8C-4FB6-BDD9-C8B6120A4047}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{338D18E1-4F8C-4FB6-BDD9-C8B6120A4047}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{338D18E1-4F8C-4FB6-BDD9-C8B6120A4047}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{338D18E1-4F8C-4FB6-BDD9-C8B6120A4047}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D701C617-72B2-4B67-B910-4A167C4290E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D701C617-72B2-4B67-B910-4A167C4290E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D701C617-72B2-4B67-B910-4A167C4290E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D701C617-72B2-4B67-B910-4A167C4290E0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
