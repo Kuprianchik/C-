@@ -143,6 +143,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.2.14 Реализацтя
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.2.15 Лямбда-выражения в свойстваих и индексаторах", "..\2.2.15 Лямбда-выражения в свойстваих и индексаторах\2.2.15 Лямбда-выражения в свойстваих и индексаторах.csproj", "{D701C617-72B2-4B67-B910-4A167C4290E0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.2.16 Знакомство с событиями", "..\2.2.16 Знакомство с событиями\2.2.16 Знакомство с событиями.csproj", "{4AEEEE50-4E57-4CD2-A75D-19A6A24D7935}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -429,6 +431,10 @@ Global
 		{D701C617-72B2-4B67-B910-4A167C4290E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D701C617-72B2-4B67-B910-4A167C4290E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D701C617-72B2-4B67-B910-4A167C4290E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4AEEEE50-4E57-4CD2-A75D-19A6A24D7935}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AEEEE50-4E57-4CD2-A75D-19A6A24D7935}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AEEEE50-4E57-4CD2-A75D-19A6A24D7935}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AEEEE50-4E57-4CD2-A75D-19A6A24D7935}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
