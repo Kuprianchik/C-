@@ -145,6 +145,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.2.15 Лямбда-выр�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.2.16 Знакомство с событиями", "..\2.2.16 Знакомство с событиями\2.2.16 Знакомство с событиями.csproj", "{4AEEEE50-4E57-4CD2-A75D-19A6A24D7935}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.2.17 Событие с явным описанием аксессоров", "..\2.2.17 Событие с явным описанием аксессоров\2.2.17 Событие с явным описанием аксессоров.csproj", "{3C9802A3-2710-403D-B284-92C8756F2B66}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -435,6 +437,10 @@ Global
 		{4AEEEE50-4E57-4CD2-A75D-19A6A24D7935}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4AEEEE50-4E57-4CD2-A75D-19A6A24D7935}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4AEEEE50-4E57-4CD2-A75D-19A6A24D7935}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C9802A3-2710-403D-B284-92C8756F2B66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C9802A3-2710-403D-B284-92C8756F2B66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C9802A3-2710-403D-B284-92C8756F2B66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C9802A3-2710-403D-B284-92C8756F2B66}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
