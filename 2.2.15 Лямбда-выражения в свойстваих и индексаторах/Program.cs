@@ -17,7 +17,7 @@ class MyClass
     public int length=>text.Length;
 
 }
-namespace _2._2._15_Лямбда_выражения_в_свойстваих_и_индексаторах
+namespace _2._2._15_Лямбда_выражения_в_свойства_и_и_индексаторах
 {
     internal class Program
     {
